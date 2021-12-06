@@ -7,15 +7,16 @@
                 <h1 class='popupTitle'>How to Use App Athletics</h1>
                 <h1 class='popupBody'>The purpose of the application is to show you generally about how healthy you are compared to other people via steps walked.</h1>
                 <br>
-                <h1 class='popupBody'>Throughout the day, log your transportation activities by:</h1>
-                <h1 class='popupBody'>1. Specifying the mode of transportation</h1>
-                <h1 class='popupBody'>2. Entering where "from" and "to" you traveled</h1>
-                <h1 class='popupBody'>3. Submitting the activity</h1>
+                <h1 class='popupBody'>Using a data set that traced people's wireless devices on UF campus, we estimated the average number of steps taken from the traces and created a percentile from it.</h1>
                 <br>
-                <h1 class='popupBody'>Based off your activity history, we will calculate your performance and show how you have impacted the planet.</h1>
-                <h1 class='popupBody'>Your status will be displayed visually as the Earth, where the health-state of the Earth will reflect your performance.</h1>
-                <h1 class='popupBody'>More transportation using automobiles will negatively affect the Earth, lowering your performance and showing a more sickly Earth.</h1>
-                <h1 class='popupBody'>Whereas transportation by walking/biking will positively affect the Earth, increasing your performance and showing a more healthy Earth.</h1>
+                <h1 class='popupBody'>Depending on the number of steps you input, it will be compared to the percentile and will determine your level of physical activity
+                based on steps walked.</h1>
+                <br>
+                <h1 class='popupBody'>The 3 levels of physical activity are: not active, active, and highly active.</h1>
+                <h1 class='popupBody'>An avatar will appear depending on the level of physical activity.</h1>
+                <h1 class='popupBody'>We will also offer you tips to help you towards your specific goals based on your activity levels.</h1>
+                <br>
+                <h1 class='popupBody'>There are additional "fitness" and "medical" tips below that provide general information about staying active and healthy!</h1>
                 <br>
                 <h1 class='popupBody'>Hope you enjoy the app and lets get active together!</h1>
             </div>
